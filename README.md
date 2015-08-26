@@ -52,3 +52,5 @@ To publish the app for distribution on a remote device follow these guides:
 ## Contact
 
 For more information please contact kmturley
+
+Correctly works with webbrowser mode,but not natively
